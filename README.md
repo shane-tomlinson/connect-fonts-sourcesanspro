@@ -22,6 +22,18 @@ const sourcesanspro = require("connect-fonts-sourcesanspro");
     }));
 ```
 
+4. Add a link tag to include the font CSS.
+```
+    <link href="/en/sourcesanspro-regular/fonts.css" type="text/css" rel="stylesheet"/ >
+```
+
+5. Set your CSS up to use the new font by using the "Source Sans Pro" font-family.
+```
+   body {
+     font-family: 'Source Sans Pro', 'sans-serif', 'serif';
+   }
+```
+
 
 ## Author
 * Shane Tomlinson

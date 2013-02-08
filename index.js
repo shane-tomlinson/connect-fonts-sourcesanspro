@@ -5,6 +5,8 @@ module.exports = {
 
   // where to find a locale's fonts in the fonts directory
   "locale-to-subdirs": {
+    "en": "en",
+    "default": "default"
   },
 
   // what font types are enabled and what are the extensions of
