@@ -1,6 +1,6 @@
 # connect-fonts-sourcesanspro
 
-Source Sans Pro Black fontpack for [connect-fonts](https://github.com/shane-tomlinson/connect-fonts).
+Source Sans Pro fontpack for [connect-fonts](https://github.com/shane-tomlinson/connect-fonts).
 
 ## Usage
 
@@ -54,15 +54,15 @@ Locale-optimised font sets can be served by specifying the locale in the fonts.c
 Available subsets:
 * en
 
-5. Set your CSS up to use the new font by using the "Source Sans Pro Black" font-family.
+5. Set your CSS up to use the new font by using the "Source Sans Pro" font-family.
 ```
     body {
-      font-family: 'Source Sans Pro Black', 'sans-serif', 'serif';
+      font-family: 'Source Sans Pro', 'sans-serif', 'serif';
     }
 ```
 
 ## Font Info
-Source Sans Pro Black
+Source Sans Pro
 
 * Copyright: Copyright 2010, 2012 Adobe Systems Incorporated. All Rights Reserved.
 * Trademark: Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.

@@ -10,7 +10,7 @@ module.exports = {
     "repourl": "https://github.com/shane-tomlinson/connect-fonts-sourcesanspro",
     "bugsurl": false
   },
-  
+
   // Package author info
   "author": {
     "name": "Shane Tomlinson",
@@ -19,7 +19,7 @@ module.exports = {
     "githubs": "https://github.com/shane-tomlinson,https://github.com/stomlinson",
     "twitter": "@shane_tomlinson"
   },
-  
+
   // package license info
   "license": {
     "name": "SIL Open Font License",
@@ -32,7 +32,7 @@ module.exports = {
   // Common font information
   "font_common": {
     "names": "sourcesanspro-black,sourcesanspro-blackitalic,sourcesanspro-bold,sourcesanspro-bolditalic,sourcesanspro-extralight,sourcesanspro-extralightitalic,sourcesanspro-italic,sourcesanspro-light,sourcesanspro-lightitalic,sourcesanspro-regular,sourcesanspro-semibold,sourcesanspro-semibolditalic",
-    "family": "Source Sans Pro Black",
+    "family": "Source Sans Pro",
     "copyright": "Copyright 2010, 2012 Adobe Systems Incorporated. All Rights Reserved.",
     "trademark": "Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.",
     "manufacturer": "Adobe Systems Incorporated",
@@ -42,7 +42,7 @@ module.exports = {
 
 
   // where to find a locale's fonts in the fonts directory
-  "locale-to-subdirs": { 
+  "locale-to-subdirs": {
   },
 
   // what font types are enabled and what are the extensions of
@@ -55,73 +55,73 @@ module.exports = {
   // in the fonts directory.
   "fonts": {
       "sourcesanspro-black": {
-        "fontFamily": "Source Sans Pro Black",
+        "fontFamily": "Source Sans Pro",
         "fontStyle": "normal",
         "fontWeight": "900",
         "local": [ "Source Sans Pro Black", "SourceSansPro-Black" ]
       },
       "sourcesanspro-blackitalic": {
-        "fontFamily": "Source Sans Pro Black",
+        "fontFamily": "Source Sans Pro",
         "fontStyle": "italic",
         "fontWeight": "900",
-        "local": [ "Source Sans Pro Black Italic", "SourceSansPro-BlackIt" ]
+        "local": [ "Source Sans Pro Italic", "SourceSansPro-BlackIt" ]
       },
       "sourcesanspro-bold": {
-        "fontFamily": "Source Sans Pro Black",
+        "fontFamily": "Source Sans Pro",
         "fontStyle": "normal",
         "fontWeight": "700",
         "local": [ "Source Sans Pro Bold", "SourceSansPro-Bold" ]
       },
       "sourcesanspro-bolditalic": {
-        "fontFamily": "Source Sans Pro Black",
+        "fontFamily": "Source Sans Pro",
         "fontStyle": "italic",
         "fontWeight": "700",
         "local": [ "Source Sans Pro Bold Italic", "SourceSansPro-BoldIt" ]
       },
       "sourcesanspro-extralight": {
-        "fontFamily": "Source Sans Pro Black",
+        "fontFamily": "Source Sans Pro",
         "fontStyle": "normal",
         "fontWeight": "200",
         "local": [ "Source Sans Pro ExtraLight", "SourceSansPro-ExtraLight" ]
       },
       "sourcesanspro-extralightitalic": {
-        "fontFamily": "Source Sans Pro Black",
+        "fontFamily": "Source Sans Pro",
         "fontStyle": "italic",
         "fontWeight": "200",
         "local": [ "Source Sans Pro ExtraLight Italic", "SourceSansPro-ExtraLightIt" ]
       },
       "sourcesanspro-italic": {
-        "fontFamily": "Source Sans Pro Black",
+        "fontFamily": "Source Sans Pro",
         "fontStyle": "italic",
         "fontWeight": "400",
         "local": [ "Source Sans Pro Italic", "SourceSansPro-It" ]
       },
       "sourcesanspro-light": {
-        "fontFamily": "Source Sans Pro Black",
+        "fontFamily": "Source Sans Pro",
         "fontStyle": "normal",
         "fontWeight": "300",
         "local": [ "Source Sans Pro Light", "SourceSansPro-Light" ]
       },
       "sourcesanspro-lightitalic": {
-        "fontFamily": "Source Sans Pro Black",
+        "fontFamily": "Source Sans Pro",
         "fontStyle": "italic",
         "fontWeight": "300",
         "local": [ "Source Sans Pro Light Italic", "SourceSansPro-LightIt" ]
       },
       "sourcesanspro-regular": {
-        "fontFamily": "Source Sans Pro Black",
+        "fontFamily": "Source Sans Pro",
         "fontStyle": "normal",
         "fontWeight": "400",
         "local": [ "Source Sans Pro", "SourceSansPro-Regular" ]
       },
       "sourcesanspro-semibold": {
-        "fontFamily": "Source Sans Pro Black",
+        "fontFamily": "Source Sans Pro",
         "fontStyle": "normal",
         "fontWeight": "600",
         "local": [ "Source Sans Pro Semibold", "SourceSansPro-Semibold" ]
       },
       "sourcesanspro-semibolditalic": {
-        "fontFamily": "Source Sans Pro Black",
+        "fontFamily": "Source Sans Pro",
         "fontStyle": "italic",
         "fontWeight": "600",
         "local": [ "Source Sans Pro Semibold Italic", "SourceSansPro-SemiboldIt" ]
